@@ -20,7 +20,4 @@ Offer guidelines on how to write effective and clear documentation for SCRUM act
 Encourage consistency and completeness across project documentation.
 
 
-![MDU Logo](./utils/MDU_logotype_english.svg)
-
-![Politecnico di Milano Logo](./utils/politecnico-di-milano-vector-logo.svg)
 
